@@ -57,12 +57,23 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical&include_all_commits=true)  ![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=dark)
+<div align="center">
 
-</p>
+### 📊 GitHub Stats
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=compact&theme=radical&langs_count=9" alt="Top Languages" />
+
+  <img src="https://streak-stats.demolab.com?user=Kabuna254&theme=radical" alt="GitHub Streak" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabuna254&theme=radical" alt="GitHub Activity Graph" />
+
+</div>
+
+</div>
+
 ---
 
 Thanks for scrolling! 🌟 Star something on your way out 🚀  
