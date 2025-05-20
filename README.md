@@ -59,8 +59,10 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=normal&theme=radical&langs_count=10)
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=dark)    
 
 ---
