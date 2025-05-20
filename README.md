@@ -57,20 +57,18 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
+<div align="center">
+  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=compact&theme=radical&langs_count=9" alt="Top Languages" />
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
   <img src="https://streak-stats.demolab.com?user=Kabuna254&theme=radical" alt="GitHub Streak" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabuna254&theme=radical" alt="GitHub Activity Graph" />
-
-</div>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabuna254&theme=dark" alt="GitHub Activity Graph" />
+  
+  </div>
 
 </div>
 
