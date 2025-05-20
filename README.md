@@ -45,7 +45,7 @@ I’m into building cool projects, solving real problems, and learning things th
 
 ## 🧭 Let’s Link Up
 
-- 🌐 Portfolio: [My Portfolio](https://danielkabuna.vercel.app)  
+- 🌐 Portfolio: [danielkabuna.vercel.app](https://danielkabuna.vercel.app)  
 - 📫 Email: [danielkabuna@gmail.com](mailto:danielkabuna@gmail.com)  
 - 🧳 LinkedIn: [Daniel Kabuna](https://www.linkedin.com/in/daniel-kabuna-0824a1217/)  
 
@@ -59,10 +59,9 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kabuna254&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabuna254&layout=compact&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=dark)    
 
 ---
 
