@@ -1,4 +1,3 @@
-<p align="center">
 # 👋 Hello world! Welcome to my little corner of GitHub where creativity meets code and bugs fear to tread 🐛🚫
 
 ---
@@ -59,12 +58,9 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical&include_all_commits=true)
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=dark)    
-
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabuna254&show_icons=true&theme=radical&include_all_commits=true)  ![GitHub Streak](https://streak-stats.demolab.com?user=Kabuna254&theme=dark)    
+</p>
 ---
 
 Thanks for scrolling! 🌟 Star something on your way out 🚀  
-</p>
