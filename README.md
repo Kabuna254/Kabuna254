@@ -66,9 +66,7 @@ I speak fluent emoji 😎, write code that (mostly) works 💻✅, and believe t
   
   <img src="https://streak-stats.demolab.com?user=Kabuna254&theme=radical" alt="GitHub Streak" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabuna254&theme=dark" alt="GitHub Activity Graph" />
-  
-  </div>
+</div>
 
 </div>
 
