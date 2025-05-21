@@ -13,7 +13,7 @@ I’m into building cool projects, solving real problems, and learning things th
 
 - 🔍 Specializing in Dart🐦 and Flutter🎏 
 - 🤖 Enrolled in **AI Starter Kit** Program  🧠  
-- 🎨 Mastering **interactive web apps** and UX/UI magic ✨  
+- 🎨 Mastering **interactive web apps** and UI/UX magic ✨  
 
 ---
 
