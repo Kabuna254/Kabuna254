@@ -11,7 +11,7 @@ I’m into building cool projects, solving real problems, and learning things th
 
 ## 🎯 Currently Learning / Specializing
 
-- 🔍 Specializing in Dart🐦 and Flutter🎏 
+- 🔍 Specializing in Full-stack Web Development(MERN) 
 - 🤖 Enrolled in **AI Starter Kit** Program  🧠  
 - 🎨 Mastering **interactive web apps** and UI/UX magic ✨  
 
