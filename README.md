@@ -11,7 +11,7 @@ I’m into building cool projects, solving real problems, and learning things th
 
 ## 🎯 Currently Learning / Specializing
 
-- 🔍 Specializing in Full-stack Web Development(MERN) 
+- 🔍 Specializing in Full-stack Web Development (MERN)🍃⚛️📝🌐
 - 🤖 Enrolled in **AI Starter Kit** Program  🧠  
 - 🎨 Mastering **interactive web apps** and UI/UX magic ✨  
 
@@ -28,9 +28,9 @@ I’m into building cool projects, solving real problems, and learning things th
 
 ## 🧰 Tech Toolbox
 
-**Languages**: Python 🐍, HTML/CSS 🎨, JavaScript ✨, SQL 📈  
-**Frameworks & Tools**: Django 🕸️, Jupyter Notebook 📓, FastAPI 🚀, Git & GitHub 🧪, VS Code 🧠  
-**Databases**: MySQL 🐬  
+**Languages**: Python 🐍, HTML5/CSS3 🎨, JavaScript ✨, SQL 📈  
+**Frameworks & Tools**: Django 🕸️, Jupyter Notebook 📓, FastAPI 🚀, Git & GitHub 🧪, VS Code 🧠, Postman 📮🧪📬
+**Databases**: MySQL 🐬, MongoDB 🍃 
 
 ---
 
