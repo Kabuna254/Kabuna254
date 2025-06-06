@@ -29,7 +29,7 @@ I’m into building cool projects, solving real problems, and learning things th
 ## 🧰 Tech Toolbox
 
 **Languages**: Python 🐍, HTML5/CSS3 🎨, JavaScript ✨, SQL 📈  
-**Frameworks & Tools**: Django 🕸️, Jupyter Notebook 📓, FastAPI 🚀, Git & GitHub 🧪, VS Code 🧠, Postman 📬
+**Frameworks & Tools**: Django 🕸️, Jupyter Notebook 📓, FastAPI 🚀, Git & GitHub 🧪, VS Code 🧠, Postman 📬                                                                
 **Databases**: MySQL 🐬, MongoDB 🍃 
 
 ---
