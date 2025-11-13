@@ -11,9 +11,8 @@ I’m into building cool projects, solving real problems, and learning things th
 
 ## 🎯 Currently Learning / Specializing
 
-- 🔍 Specializing in Full-Stack Web Development (MERN🍃⚛️📝🌐)
-- 🤖 Enrolled in **ALX AI Starter Kit** Program  🧠  
-- 🎨 Mastering **interactive web apps** and UI/UX magic ✨  
+- 🔍 Enrolled in a **Blockchain Development Course**
+- 🤖 Enrolled in **AI for Business Intelligence**      
 
 ---
 
